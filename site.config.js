@@ -3,8 +3,8 @@ const CONFIG = {
   profile: {
     name: "Spike",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    role: "just for love.",
+    bio: "hello@spike.ac.cn",
     email: "pengyuyan_@outlook.com",
     linkedin: "morethanmin",
     github: "pengyuyan666666",
@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `My linktree`,
+      name: `My Linktree`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
