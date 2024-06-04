@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `My Linktree`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "linktr.ee/spike_w",
     },
   ],
   // blog setting (required)
