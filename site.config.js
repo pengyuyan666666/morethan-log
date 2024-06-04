@@ -6,7 +6,7 @@ const CONFIG = {
     role: "just for love.",
     bio: "hello@spike.ac.cn",
     email: "pengyuyan_@outlook.com",
-    linkedin: "morethanmin",
+    linkedin: "灿灿-魏-862735301",
     github: "pengyuyan666666",
     instagram: "spike_we1",
   },
