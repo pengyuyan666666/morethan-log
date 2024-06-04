@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `My Linktree`,
-      href: "linktr.ee/spike_w",
+      href: "https://linktr.ee/spike_w",
     },
   ],
   // blog setting (required)
